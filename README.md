@@ -14,3 +14,5 @@ This community package is vibecoded: built with AI assistance, human review, and
 The first-run library location is `/calibre-library`. Put books to be processed into `/cwa-book-ingest`. CWA removes files from the ingest folder after processing, so do not use it as a download destination.
 
 This is an independently maintained community package, not an official Umbrel App Store listing.
+
+An official App Store submission is also under review: [getumbrel/umbrel-apps#6189](https://github.com/getumbrel/umbrel-apps/pull/6189).

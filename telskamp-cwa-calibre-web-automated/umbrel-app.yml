@@ -42,7 +42,7 @@ gallery:
   - https://raw.githubusercontent.com/crocodilestick/Calibre-Web-Automated/v4.0.8/README_images/CWA-Homepage.png
   - https://raw.githubusercontent.com/crocodilestick/Calibre-Web-Automated/v4.0.8/README_images/cwa_v3.1.3_dark_mode_homepage.png
 submitter: telskamp
-submission: https://github.com/getumbrel/umbrel-apps/pulls
+submission: https://github.com/getumbrel/umbrel-apps/pull/6189
 path: ""
 defaultUsername: admin
 defaultPassword: admin123
